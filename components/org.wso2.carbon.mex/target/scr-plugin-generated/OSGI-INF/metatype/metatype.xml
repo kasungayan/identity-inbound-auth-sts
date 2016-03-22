@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><metatype:MetaData xmlns:metatype="http://www.osgi.org/xmlns/metatype/v1.0.0" localization="OSGI-INF/metatype/metatype">
+    <OCD id="carbon.mex.component" name="%carbon.mex.component.name" description="%carbon.mex.component.description"/>
+    <Designate pid="carbon.mex.component">
+        <Object ocdref="carbon.mex.component"/>
+    </Designate>
+</metatype:MetaData>
